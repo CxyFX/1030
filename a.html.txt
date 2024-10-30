@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>My Maven Repo</title>
+</head>
+<body>
+    <h1>Welcome to my Maven Repo</h1>
+    <p>Visit Maven Repo</p >
+</body>
+</html>
